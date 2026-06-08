@@ -141,24 +141,7 @@ Credit Line Optimization
 
 Generate risk-adjusted credit limits.
 
-Project Structure
-CREDENCE/
-│
-├── data/
-│   └── cs-training.csv
-│
-├── notebooks/
-│   └── CREDENCE.ipynb
-│
-├── outputs/
-│   ├── credit_decisions_with_capital.csv
-│   ├── enhanced_credit_line_optimization.csv
-│
-├── models/
-│
-├── reports/
-│
-└── README.md
+
 How to Run
 1. Clone Repository
 git clone https://github.com/yourusername/CREDENCE.git
